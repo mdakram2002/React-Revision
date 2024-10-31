@@ -24,14 +24,8 @@ Welcome to my GitHub repository! This repository will document my journey as I r
 - State Management: Advanced state management techniques using Redux or other libraries.
 
 # Projects
-# Basic Level Projects:
-coming soon
-
-# Intermediate Level Projects:
-coming soon
-
-# Advanced Level Projects:
-coming soon
+- All projects are in 'All Projects Repository.
+- ALl Projects: https://github.com/mdakram2002/ALL-Projects-
 
 # Goals
 - Solidify Fundamentals: Strengthen my understanding of basic React concepts.
