@@ -1,4 +1,4 @@
-# React Revision Journey
+# React-Revision Journey
 Welcome to my GitHub repository! This repository will document my journey as I revise and master React, covering essential concepts and building projects to reinforce learning.
 
 # Topics Covered
@@ -25,7 +25,7 @@ Welcome to my GitHub repository! This repository will document my journey as I r
 
 # Projects
 - All projects are in 'All Projects Repository.
-- ALl Projects: https://github.com/mdakram2002/ALL-Projects-
+- All Projects: https://github.com/mdakram2002/ALL-Projects-
 
 # Goals
 - Solidify Fundamentals: Strengthen my understanding of basic React concepts.
